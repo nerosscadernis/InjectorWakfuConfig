@@ -1,0 +1,11 @@
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.exe
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.deps.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.runtimeconfig.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.runtimeconfig.dev.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.dll
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.csproj.CoreCompileInputs.cache
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.AssemblyInfoInputs.cache
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.AssemblyInfo.cs
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\win10-x64\InjectorConfigWakfu.dll

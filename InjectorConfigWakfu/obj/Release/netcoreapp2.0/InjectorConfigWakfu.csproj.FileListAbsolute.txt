@@ -1,0 +1,10 @@
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\InjectorConfigWakfu.deps.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\InjectorConfigWakfu.runtimeconfig.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\InjectorConfigWakfu.runtimeconfig.dev.json
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\InjectorConfigWakfu.dll
+G:\InjectorConfigWakfu\InjectorConfigWakfu\bin\Release\netcoreapp2.0\InjectorConfigWakfu.pdb
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\InjectorConfigWakfu.csproj.CoreCompileInputs.cache
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\InjectorConfigWakfu.AssemblyInfoInputs.cache
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\InjectorConfigWakfu.AssemblyInfo.cs
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\InjectorConfigWakfu.dll
+G:\InjectorConfigWakfu\InjectorConfigWakfu\obj\Release\netcoreapp2.0\InjectorConfigWakfu.pdb
